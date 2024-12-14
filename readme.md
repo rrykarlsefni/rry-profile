@@ -43,7 +43,9 @@
  <a href="https://vm.tiktok.com/ZS6Jt72MQ/" target="_blank">
   <img src="https://img.shields.io/badge/tiktok-fe4164?style=for-the-badge&logo=tiktok&logoColor=white" alt="@rrykarlsefni" />
     <br>
-          <samp>&gt; I don't have social media
+       I don't have social media
+    <br>
+    
  </a> 
 </p>
 <br />
@@ -79,12 +81,6 @@
 
 ## Top Open Source -
 [![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=rrykarlsefni&repo=rry&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rrykarlsefni/rry)
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=Rifza123&repo=Experimental-Bell&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Rifza123/Experimental-Bell)
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=Rifza123&repo=XilverMoods-MD&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Rifza123/XilverMoods-MD)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=Rifza123&repo=XMoods_Yourself-FINAL&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Rifza123/XMoods_Yourself-FINAL)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=Rifza123&repo=ThunderXM_Multi-Device&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Rifza123/ThunderXM_Multi-Device)
-[![Rifza123 Readme](https://github-readme-stats.vercel.app/api/pin/?username=Rifza123&repo=Rifza123&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Rifza123/Rifza123)
-
 <p align="left">
   <a href="https://github.com/Rifza123?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
@@ -94,22 +90,22 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/Rifza123">
+  <a href="https://github.com/rrykarlsefni">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rifza123&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Rifza123">
+  <a href="https://github.com/rrykarlsefni">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rifza123&theme=radical" alt="Rifza123 GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/Rifza123"><img alt="Rifza123 Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Rifza123&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/rrykarlsefni"><img alt="rrykarlsefni Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Rifza123&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/Rifza123"><img alt="Rifza123 Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Rifza123&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 
-![Rifza123 Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rifza123&custom_title=Rifza123%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![rrykarlsefni Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rifza123&custom_title=Rifza123%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
